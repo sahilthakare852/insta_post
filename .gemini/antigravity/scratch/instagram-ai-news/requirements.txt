@@ -1,0 +1,7 @@
+feedparser
+Pillow
+instagrapi
+python-dotenv
+requests
+google-generativeai
+beautifulsoup4
