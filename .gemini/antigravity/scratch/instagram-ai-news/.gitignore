@@ -5,3 +5,4 @@ fonts/
 *.egg-info/
 dist/
 build/
+.env
